@@ -1,1 +1,3 @@
+I believe that the function will display an error message because there is no variable s defined in side the arguments of the function
 I believe that the code will print “hi hi” then “Hello World”
+I believe that the function will print "Hello World" then "hello hello" then "hello hello" again.
