@@ -1,2 +1,1 @@
-I believe that the function will display an error message because there is no variable s defined
-inside the arguments of the function
+I believe that the code will print “hi hi” then “Hello World”
